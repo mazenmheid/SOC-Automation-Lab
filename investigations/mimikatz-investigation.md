@@ -31,7 +31,8 @@ The activity matched known credential dumping behavior targeting LSASS memory.
 The SOC automation workflow successfully detected and processed the incident, demonstrating effective SIEM and SOAR integration.
 
 ## Evidence
-
+### Wazuh Detection
+![Wazuh Detection](../screenshots/wazuh-alert.png)
 ### Alert Overview
 ![TheHive Alert](../screenshots/thehive-alert-dashboard.png)
 
