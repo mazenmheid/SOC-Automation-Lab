@@ -1,4 +1,7 @@
 # SOC Automation Lab
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-blue)
+![SOAR](https://img.shields.io/badge/SOAR-Shuffle-green)
+![IR](https://img.shields.io/badge/IR-TheHive-orange)
 
 ## Overview
 This project presents a hands-on Security Operations Center (SOC) Automation Lab designed to simulate real-world security monitoring, alert enrichment, and incident response workflows.
