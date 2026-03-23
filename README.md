@@ -56,6 +56,8 @@ This diagram illustrates the end-to-end SOC workflow, including log collection, 
 - SIEM + SOAR integration is powerful
 - Open-source tools can build real SOC environments
 - SOC automation improves response speed
+- SIEM + SOAR integration is powerful
+- Open-source tools can build real SOC environments
 
 ## Sample Investigation
 - [Mimikatz Credential Dumping Investigation](investigations/mimikatz-investigation.md)
@@ -70,5 +72,10 @@ This diagram illustrates the end-to-end SOC workflow, including log collection, 
 
 ### Wazuh Alert (Credential Dumping Detection)
 ![Wazuh Alert](screenshots/wazuh-alert.png)
-- SIEM + SOAR integration is powerful
-- Open-source tools can build real SOC environments
+
+### Shuffle SOAR Workflow
+![Shuffle Workflow](screenshots/shuffle-workflow.png)
+
+### Automated Email Alert (SOAR Output)
+![Email Alert](screenshots/email-alert.png)
+
