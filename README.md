@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/TheHive-Incident_Response-orange?style=flat" />
   <img src="https://img.shields.io/badge/Sysmon-Windows-black?style=flat&logo=windows" />
   <img src="https://img.shields.io/badge/VirusTotal-API-blue?style=flat&logo=virustotal" />
-  <img src="https://cdn.simpleicons.org/elastic" width="40" />
-  <img src="https://cdn.simpleicons.org/windows" width="40" />
-  <img src="https://cdn.simpleicons.org/virustotal" width="40" />
 </p>
 
 ## Overview
