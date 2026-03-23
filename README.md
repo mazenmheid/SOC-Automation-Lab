@@ -59,5 +59,13 @@ This diagram illustrates the end-to-end SOC workflow, including log collection, 
 
 ## Sample Investigation
 - [Mimikatz Credential Dumping Investigation](investigations/mimikatz-investigation.md)
+
+## Screenshots
+
+### TheHive Alert Dashboard
+![TheHive Alert Dashboard](screenshots/thehive-alert-dashboard.png)
+
+### TheHive Case Details
+![TheHive Case Details](screenshots/thehive-case-details.png)
 - SIEM + SOAR integration is powerful
 - Open-source tools can build real SOC environments
