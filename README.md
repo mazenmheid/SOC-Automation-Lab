@@ -50,5 +50,8 @@ The lab integrates Wazuh (SIEM), Shuffle (SOAR), and TheHive (incident response 
 - SIEM + SOAR integration is powerful
 - Open-source tools can build real SOC environments
 - SOC automation improves response speed
+
+## Sample Investigation
+- [Mimikatz Credential Dumping Investigation](investigations/mimikatz-investigation.md)
 - SIEM + SOAR integration is powerful
 - Open-source tools can build real SOC environments
