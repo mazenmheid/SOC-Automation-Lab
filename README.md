@@ -67,5 +67,8 @@ This diagram illustrates the end-to-end SOC workflow, including log collection, 
 
 ### TheHive Case Details
 ![TheHive Case Details](screenshots/thehive-case-details.png)
+
+### Wazuh Alert (Credential Dumping Detection)
+![Wazuh Alert](screenshots/wazuh-alert.png)
 - SIEM + SOAR integration is powerful
 - Open-source tools can build real SOC environments
