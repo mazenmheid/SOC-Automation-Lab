@@ -5,6 +5,12 @@ This project presents a hands-on Security Operations Center (SOC) Automation Lab
 
 The lab integrates Wazuh (SIEM), Shuffle (SOAR), and TheHive (incident response platform) to automate detection, analysis, and case creation.
 
+## Architecture Diagram
+
+![SOC Architecture](screenshots/architecture-diagram.png)
+
+This diagram illustrates the end-to-end SOC workflow, including log collection, alert detection, enrichment, and automated incident response using Wazuh, Shuffle, and TheHive.
+
 ## Objectives
 - Detect suspicious activity using Wazuh
 - Automate alert enrichment using VirusTotal API
