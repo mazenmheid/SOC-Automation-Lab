@@ -1,8 +1,10 @@
 # SOC Automation Lab
-<p align="left">
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAR-Shuffle-4CAF50?style=for-the-badge&logo=shuffle&logoColor=white" />
-  <img src="https://img.shields.io/badge/IR-TheHive-F28C28?style=for-the-badge&logo=hive&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=flat&logo=elastic" />
+  <img src="https://img.shields.io/badge/Shuffle-SOAR-green?style=flat" />
+  <img src="https://img.shields.io/badge/TheHive-Incident_Response-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Sysmon-Windows-black?style=flat&logo=windows" />
+  <img src="https://img.shields.io/badge/VirusTotal-API-blue?style=flat&logo=virustotal" />
 </p>
 
 ## Overview
