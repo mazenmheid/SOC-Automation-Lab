@@ -11,6 +11,15 @@ The lab integrates Wazuh (SIEM), Shuffle (SOAR), and TheHive (incident response 
 
 This diagram illustrates the end-to-end SOC workflow, including log collection, alert detection, enrichment, and automated incident response using Wazuh, Shuffle, and TheHive.
 
+## Workflow
+1. Sysmon generates endpoint logs
+2. Wazuh analyzes logs and triggers alerts
+3. Alerts are sent to Shuffle via webhook
+4. Shuffle extracts indicators (hash/IP)
+5. VirusTotal enriches the alert
+6. TheHive creates a case automatically
+7. Analyst reviews and investigates
+
 ## Objectives
 - Detect suspicious activity using Wazuh
 - Automate alert enrichment using VirusTotal API
@@ -23,15 +32,6 @@ This diagram illustrates the end-to-end SOC workflow, including log collection, 
 - TheHive (Case Management)
 - Shuffle (SOAR automation)
 - Windows 10 endpoint with Sysmon
-
-## Workflow
-1. Sysmon generates endpoint logs
-2. Wazuh analyzes logs and triggers alerts
-3. Alerts are sent to Shuffle via webhook
-4. Shuffle extracts indicators (hash/IP)
-5. VirusTotal enriches the alert
-6. TheHive creates a case automatically
-7. Analyst reviews and investigates
 
 ## Detection Example
 - Attack: Credential Dumping
