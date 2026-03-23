@@ -29,3 +29,11 @@ The activity matched known credential dumping behavior targeting LSASS memory.
 
 ## Conclusion
 The SOC automation workflow successfully detected and processed the incident, demonstrating effective SIEM and SOAR integration.
+
+## Evidence
+
+### Alert Overview
+![TheHive Alert](../screenshots/thehive-alert-dashboard.png)
+
+### Case Details
+![Case Details](../screenshots/thehive-case-details.png)
